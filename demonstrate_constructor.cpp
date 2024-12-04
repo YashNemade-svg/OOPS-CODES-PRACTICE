@@ -34,3 +34,11 @@ int main()
     Data d2(25,"ramlal");
     Data d3=d1;
 }
+
+output
+I am default Constructor
+I initialized value 21 yash
+I am parametrized Constructor
+I initialized value 25 ramlal
+I am Copy Constructor
+I initialized value 21 yash
